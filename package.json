@@ -1,0 +1,33 @@
+{
+  "name": "dsh-manufacturing",
+  "version": "0.1.0",
+  "description": "制造工艺套装：工艺选择 + 14 个制造工具地图（钣金/注塑/CNC/压铸/冲压/质检/BOM）",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "manufacturing",
+    "制造",
+    "工艺",
+    "suite"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-manufacturing.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
