@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-manufacturing.svg)](https://deepseekbase.com/plugins/dsh-manufacturing/)
 <p align="center"><strong>dsh-manufacturing — 制造工艺套装</strong></p>
 
 按材料/数量/尺寸/精度推荐工艺，并给出 14 个制造工具的安装入口。
